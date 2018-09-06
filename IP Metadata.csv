@@ -1,0 +1,26 @@
+Test,School,Class,Section,Maxm Marks,Subject,Fellow,Chapter,Topics (Separated by comma),Date,Difficulty(1-5),Test Duration,Number of questions,Cheating(1-5)
+Geom 1,Anjali EMS,9,B,13,Geometry,Ravi Gautam,Basic concepts in geometry,"Coordinate, Distance, Collinearity, Betweenness, Length",28-06-2018,3,,,
+Geom 1,Anjali EMS,9,C,13,Geometry,Ravi Gautam,Basic concepts in geometry,"Coordinate, Distance, Collinearity, Betweenness, Length",28-06-2018,3,,,
+Sets 1,Anjali EMS,9,A,16,Algebra,Ravi Gautam,Sets,"Listing/Roster method, word problems, union of sets, interesection of sets, relationship between union and intersection, number of elements in a set",28-06-2018,3,,,
+Geom 2,Anjali EMS,9,B,6,Geometry,Ravi Gautam,Basic concepts in geometry,"Conditional form, Converse, Antecedent, Consequent, Given part, part to prove",02-07-2018,3,,,
+Geom 2,Anjali EMS,9,C,6,Geometry,Ravi Gautam,Basic concepts in geometry,"Conditional form, Converse, Antecedent, Consequent, Given part, part to prove",02-07-2018,3,,,
+Sets 2,Anjali EMS,9,A,8,Algebra,Ravi Gautam,Sets,"Rule Method/Set builder form, Equal Sets, Finite Set, Infinite Set",02-07-2018,3,,,
+Real Numbers 1,Anjali EMS,9,A,14,Algebra,Ravi Gautam,Real Numbers,"Comparing rational numbers, order relation on rational numbers, rational number to decimal, terminating or non-terminating",05-07-2018,3,,,
+Parallel Lines 1,Anjali EMS,9,B,10,Geometry,Ravi Gautam,Parallel Lines,"Corresponding angles, interior alternate angles, exterior alternate angles, interior angles on the same side of the transversal",05-07-2018,3,,,
+Parallel Lines 1,Anjali EMS,9,C,10,Geometry,Ravi Gautam,Parallel Lines,"Corresponding angles, interior alternate angles, exterior alternate angles, interior angles on the same side of the transversal",05-07-2018,3,,,
+Real Numbers 2,Anjali EMS,9,A,5,Algebra,Ravi Gautam,Real Numbers,Decimal to p/q form,12-07-2018,3,,,
+Parallel Lines 2,Anjali EMS,9,B,5,Geometry,Ravi Gautam,Parallel Lines,"Euclid's fifth postulate, Interior Angles Test",12-07-2018,3,,,
+Parallel Lines 2,Anjali EMS,9,C,5,Geometry,Ravi Gautam,Parallel Lines,"Euclid's fifth postulate, Interior Angles Test",12-07-2018,3,,,
+Real Numbers 3,Anjali EMS,9,A,8,Algebra,Ravi Gautam,Real Numbers,"Irrational numbers on a number line, decimal form of irrational number, proving irrational numbers, simplifying surds",20-07-2018,3,20,4,
+Parallel Lines 3,Anjali EMS,9,B,9.5,Geometry,Ravi Gautam,Parallel Lines,"Parallel lines three theorems, Parallel lines three tests, Proofs",20-07-2018,5,20,4,
+Parallel Lines 3,Anjali EMS,9,C,9.5,Geometry,Ravi Gautam,Parallel Lines,"Parallel lines three theorems, Parallel lines three tests, Proofs",20-07-2018,5,20,4,
+Real Numbers 4,Anjali EMS,9,A,18,Algebra,Ravi Gautam,Real Numbers,"Surd, Simplification of surd, operations on surds, rationalization of surds",27-07-2018,4,20,11,1
+Parallel Lines 4,Anjali EMS,9,B,10,Geometry,Ravi Gautam,Parallel Lines,"Parallel lines three theorems, Parallel lines three tests, Proofs",27-07-2018,4,20,6,1
+Parallel Lines 4,Anjali EMS,9,C,10,Geometry,Ravi Gautam,Parallel Lines,"Parallel lines three theorems, Parallel lines three tests, Proofs",27-07-2018,4,20,6,1
+Triangles 1,Anjali EMS,9,B,10,Geometry,Ravi Gautam,Triangles,Remote Interior Angles Thoerem,20-08-2018,4,20,5,2
+Triangles 1,Anjali EMS,9,C,10,Geometry,Ravi Gautam,Triangles,Remote Interior Angles Thoerem,21-08-2018,4,20,5,3
+Polynomials 1,Anjali EMS,9,A,10,Algebra,Ravi Gautam,Polynomials,"Defintion of polynomials, degree, power, coefficient, Index form, Standard form, coefficient form",23-08-2018,3,15,4,1
+Triangles 2,Anjali EMS,9,B,10,Geometry,Ravi Gautam,Triangles,Congruence of triangles,28-08-2018,3,15,4,3
+Triangles 2,Anjali EMS,9,C,10,Geometry,Ravi Gautam,Triangles,Congruence of triangles,28-08-2018,3,15,4,2
+Polynomials 2,Anjali EMS,9,A,10,Algebra,Ravi Gautam,Polynomials,Operations on polynomials,29-08-2018,3,15,4,1
+Polynomials 3,Anjali EMS,9,A,4,Algebra,Ravi Gautam,Polynomials,Division of polynomials,03-09-2018,4,15,2,1
