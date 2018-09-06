@@ -145,6 +145,14 @@ server <- function(input, output) {
             theme(plot.subtitle = element_text(color="#666666"))
         p6
     })
+    
+    output$chapControl2 <- renderUI({
+        data_temp = unique(p4_data %>%
+            filter(School == input$school2, Class == input$class2 &
+                       Section == input$section2 & Subject == input$subject2) %>%
+            .$Chapter)
+        selectInput("theme1", "Chapter/Theme", data_temp)
+    })
 
     
 }

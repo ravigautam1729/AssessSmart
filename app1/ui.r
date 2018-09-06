@@ -83,11 +83,7 @@ ui <- fluidPage(
                                                                  c('Algebra', 'Geometry')
                                             )
                                             ),
-                                            fluidRow(selectInput("theme1",
-                                                                 "Chapter/Theme",
-                                                                 c('Sets', 'Real Numbers', 'Parallel Lines',
-                                                                   'Basic concepts in geometry')
-                                            )
+                                            fluidRow(uiOutput("chapControl2")
                                             )
                                             
                                      ),
